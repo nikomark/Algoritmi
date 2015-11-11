@@ -1,7 +1,9 @@
 #include <iostream>
 #include <cstdlib>
-
 using namespace std;
+
+/*In bottom-up approch we callculate smallest values of fib. first, 
+then the larger values are build from them*/
 
 int fibdp(int);
 
